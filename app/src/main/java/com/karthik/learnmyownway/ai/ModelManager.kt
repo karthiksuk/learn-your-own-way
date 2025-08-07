@@ -27,7 +27,7 @@ object ModelManager {
         ModelInfo(
             name = "Gemma3N 2B",
             fileName = "gemma-3n-E2B-it-int4.task",
-            downloadUrl = "https://storage.googleapis.com/learn-your-own-way/gemma-3n-E2B-it-int4.task",
+            downloadUrl = "google/gemma-3n-E2B-it-int4.task", //Change this to Hugging Face
             sizeInMB = 2990,
             description = "Compact model optimized for on-device learning experiences"
         )
