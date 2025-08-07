@@ -15,29 +15,6 @@ Imagine having a patient, knowledgeable teacher who:
 
 That's exactly what "Learn My Own Way" provides - except this teacher lives on your phone and works completely offline.
 
-## Real-World Impact Stories
-
-### Maria's Story (Rural Guatemala)
-Maria, a 12-year-old student, lives 3 hours from the nearest school. With no internet and limited electricity, her education options were severely limited. Using "Learn My Own Way":
-- She learns mathematics through visual explanations in her native K'iche' language
-- The app recognizes her visual learning style and adapts all lessons accordingly
-- She can scan pages from her brother's old textbooks to get instant explanations
-- Her learning continues even during the rainy season when travel is impossible
-
-### Ahmed's Journey (Refugee Camp, Jordan)
-Ahmed, 15, lost 3 years of schooling due to displacement. Traditional classes move too fast for him to catch up. The app helps by:
-- Starting exactly at his current level, not his age-expected grade
-- Providing unlimited practice problems without judgment or time pressure
-- Working offline in the camp where internet is expensive and unreliable
-- Tracking his progress to show UN education coordinators his improvement
-
-### Priya's Success (Urban Slum, Mumbai)
-Priya has dyslexia and struggles in overcrowded classrooms. Her parents can't afford private tutoring. The app transforms her learning by:
-- Using voice-based learning to bypass reading difficulties
-- Breaking complex concepts into small, manageable chunks
-- Providing instant feedback without the embarrassment of asking repeatedly
-- Celebrating small wins to build her confidence
-
 ## The Challenge We're Solving
 
 In many parts of the world, students face significant barriers to quality education due to:
